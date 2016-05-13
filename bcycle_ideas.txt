@@ -1,0 +1,8 @@
+are the number of users going up over time?
+are those users using the bicycles more over time?
+
+
+what is the relation between bike checkout location and house price
+
+
+
