@@ -17,3 +17,8 @@ Filtering and Grouping:
 Initial draft findings
 
 ![alt tag](https://github.com/mhernandez1005/TransportationCamp_Denver_2016_Boulder_BCycle_Data_Analysis/blob/master/static/images/Count%20of%20BCycle%20Trips%20Per%20Month%20for%20different%20pass%20types.png)
+
+  - It appears the number of checkouts are on the rise for all pass types.
+  - As expected, the season has an influence on the number of checkouts.
+  - The chart was made by binning the checkout counts by year-month.
+  - The chart was grouped by pass type.
