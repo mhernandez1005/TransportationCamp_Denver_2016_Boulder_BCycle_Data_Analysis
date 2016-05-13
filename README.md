@@ -10,7 +10,7 @@ Below are some questions we hope to answer.
 
 Filtering and Grouping:
   
-  - Included only Boulder Based riders.
+  - Included only Boulder based riders.
   - Group data by rider_id
   - Created a Primary key between rider_id and checkout_location
 
@@ -18,7 +18,7 @@ Initial draft findings
 
 ![alt tag](https://github.com/mhernandez1005/TransportationCamp_Denver_2016_Boulder_BCycle_Data_Analysis/blob/master/static/images/Count%20of%20BCycle%20Trips%20Per%20Month%20for%20different%20pass%20types.png)
 
-  - It appears the number of checkouts are on the rise for all pass types.
-  - As expected, the season has an influence on the number of checkouts.
+  - The number of checkouts is increasing for all pass types.
+  - As expected, the season has a strong influence on the number of checkouts.
   - The chart was made by binning the checkout counts by year-month.
   - The chart was grouped by pass type.
