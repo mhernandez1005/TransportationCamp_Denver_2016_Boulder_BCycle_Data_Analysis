@@ -1,7 +1,25 @@
-# Welcome
+# Welcome, this page is about Boulder BCycle data analysis sponsored by TransporationCamp Denver 2016
 
-BCycle Data Analysis results by Longmont Data Science.
-Below are some questions we hope to answer.
+http://transportationcamp.org/events/colorado-2016/
+
+Transportation camp encourages data analysis by providing 3 types of data.
+Visit their website to learn more about transporation camps unconference.
+
+The remaning information is about the analysis of Boulder BCycle data.
+
+We wanted to use the data to visualize the Boulder BCycle goals.
+
+Boulder BCycle has several goals to help the community.
+http://blog.boulderbcycle.com/about/
+
+Here are a few we picked to drive our investigation:
+
+  - Encourage more people in Boulder to ride a bike—or bike more often—to promote their personal health as well as our community’s quality of life.
+  - Demonstrate how bike-sharing programs can make communities healthier, stronger, friendlier, more mobile and more vital.
+  - Demonstrate how bike-sharing programs can help minimize mobility and social equity disadvantages experienced by low-income or other marginalized people.
+  - Put more smiles on the faces of more people in Boulder—all day, every day!
+
+The following questions were developed with Boulder BCycle goals in mind:
 
   - Are more bcycles being checked out?
   - Is the number of users going up?
